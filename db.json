@@ -1,0 +1,142 @@
+{
+  "theatres": [
+    {
+      "id": 3,
+      "name": "Flatiron Theatres #3",
+      "showings": [
+        {
+          "id": 30,
+          "film": {
+            "title": "The Torment of Others 2",
+            "runtime": 96
+          },
+          "capacity": 20,
+          "showtime": "01:59AM",
+          "tickets_sold": 1
+        },
+        {
+          "id": 29,
+          "film": {
+            "title": "The Torment of Others 2",
+            "runtime": 96
+          },
+          "capacity": 20,
+          "showtime": "08:41PM",
+          "tickets_sold": 6
+        },
+        {
+          "id": 28,
+          "film": {
+            "title": "The Torment of Others 2",
+            "runtime": 96
+          },
+          "capacity": 20,
+          "showtime": "06:50AM",
+          "tickets_sold": 1
+        },
+        {
+          "id": 27,
+          "film": {
+            "title": "All Passion Spent 4",
+            "runtime": 88
+          },
+          "capacity": 20,
+          "showtime": "10:11AM",
+          "tickets_sold": 10
+        },
+        {
+          "id": 26,
+          "film": {
+            "title": "All Passion Spent 4",
+            "runtime": 88
+          },
+          "capacity": 20,
+          "showtime": "11:02PM",
+          "tickets_sold": 7
+        },
+        {
+          "id": 25,
+          "film": {
+            "title": "All Passion Spent 4",
+            "runtime": 88
+          },
+          "capacity": 20,
+          "showtime": "06:58PM",
+          "tickets_sold": 1
+        },
+        {
+          "id": 24,
+          "film": {
+            "title": "Consider Phlebas",
+            "runtime": 118
+          },
+          "capacity": 20,
+          "showtime": "11:36PM",
+          "tickets_sold": 2
+        },
+        {
+          "id": 23,
+          "film": {
+            "title": "Consider Phlebas",
+            "runtime": 118
+          },
+          "capacity": 20,
+          "showtime": "09:47AM",
+          "tickets_sold": 14
+        },
+        {
+          "id": 22,
+          "film": {
+            "title": "Consider Phlebas",
+            "runtime": 118
+          },
+          "capacity": 20,
+          "showtime": "06:13AM",
+          "tickets_sold": 2
+        },
+        {
+          "id": 21,
+          "film": {
+            "title": "Those Barren Leaves, Thrones, Dominations 3",
+            "runtime": 107
+          },
+          "capacity": 20,
+          "showtime": "03:55AM",
+          "tickets_sold": 4
+        },
+        {
+          "id": 20,
+          "film": {
+            "title": "The Last Temptation 2",
+            "runtime": 85
+          },
+          "capacity": 20,
+          "showtime": "08:48PM",
+          "tickets_sold": 3
+        }
+      ]
+    }
+  ],
+  "tickets": [
+    {
+      "showing_id": 28,
+      "id": 1
+    },
+    {
+      "showing_id": 28,
+      "id": 2
+    },
+    {
+      "showing_id": 21,
+      "id": 3
+    },
+    {
+      "showing_id": 29,
+      "id": 4
+    },
+    {
+      "showing_id": 29,
+      "id": 5
+    }
+  ]
+}
